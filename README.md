@@ -1,2 +1,3 @@
 # A-star
-Implementation of A* path finding algorithm in Pygame
+## Implementation of A* path finding algorithm in Pygame
+Press enter to start the search
